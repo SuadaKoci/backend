@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: quiz-server
-        image: kristosako/spring-quiz:v1
+        image: suadakoci/springboot-backend:v1
         resources:
           requests:
             cpu: 100m
